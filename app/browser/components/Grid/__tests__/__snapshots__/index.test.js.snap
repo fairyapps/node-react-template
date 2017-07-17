@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Column renders correct snapshot 1`] = `
+.jlPgpE {
+  box-sizing: border-box;
+  vertical-align: middle;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+@media (min-width: 992px) {
+  .jlPgpE {
+    -webkit-flex: 0 0 50%;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+
+<div
+  className="sc-htpNat jlPgpE"
+>
+  sometext
+</div>
+`;

@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header renders correct snapshot 1`] = `
+.fYdnBr {
+  max-width: 100%;
+  margin: 0 auto;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-top: 20px;
+}
+
+@media (min-width: 768px) {
+  .fYdnBr {
+    max-width: 750px;
+  }
+}
+
+@media (min-width: 992px) {
+  .fYdnBr {
+    max-width: 970px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .fYdnBr {
+    max-width: 1170px;
+  }
+}
+
+<header>
+  <div
+    className="sc-bdVaJa fYdnBr"
+  />
+</header>
+`;

@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Profile renders correct snapshot 1`] = `
+.kjJANk {
+  max-width: 100%;
+  margin: 0 auto;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-top: auto;
+}
+
+@media (min-width: 768px) {
+  .kjJANk {
+    max-width: 750px;
+  }
+}
+
+@media (min-width: 992px) {
+  .kjJANk {
+    max-width: 970px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .kjJANk {
+    max-width: 1170px;
+  }
+}
+
+<div
+  className="sc-bdVaJa kjJANk"
+>
+  <h1>
+    Avatar Here
+  </h1>
+  <h1>
+    About Here
+  </h1>
+</div>
+`;

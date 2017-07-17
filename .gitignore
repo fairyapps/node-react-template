@@ -1,0 +1,8 @@
+.env
+.DS_Store
+dist/
+coverage/
+node_modules/
+npm-debug.log
+public/assets
+assets-manifest.json
